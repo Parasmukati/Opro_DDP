@@ -3,6 +3,7 @@ Classic 0/1 Knapsack and multi-constraint knapsack: llama-3.3-70b-versatile
 Selected items with maximum total value under weight and additional constraints, validating LLM-generated solutions against OR-Tools DP solver.
 
 
+
 Bounded Knapsack (limited copies of each item): llama-3.3-70b-versatile
 
 Solved item selection where each item has a limited number of copies, comparing LLM output with dynamic programming results.
